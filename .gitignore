@@ -1,0 +1,9 @@
+node_modules/
+dist/
+target/
+.m2/
+
+backend/.env
+frontend/.env
+
+*.log
