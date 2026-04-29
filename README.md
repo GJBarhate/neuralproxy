@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 NeuralProxy
+# 🧠 NeuralProxy 🧠
 
 ### A Premium Multi-Tenant AI Gateway for Gemini
 
